@@ -1,4 +1,4 @@
-# Hi Welcome to my Website!!
+# Hi! Welcome to my Website.
 
 I have developed a personal website using **React, JavaScript, HTML, CSS and Vite** to showcase my personal info and project portfolio. 
 
